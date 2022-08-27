@@ -1,0 +1,28 @@
+# Big Data Analytics ALgorithms
+- Linear Regression - Supervised Learning
+- Logistic Regression- Naive Bayes
+- Classification ANd Regression Trees
+- K-Means Clustering
+
+## Liner Regression
+- Supervised Learning
+- y = mx+c where c is bias => y = b0 + b1x
+Residual/Error = Actual Values - Predicted Values
+Sum of Rediduals/Errors = Sum (Actual - Predicted Values)
+
+## Logistic Regression 
+- Sigmoid Function 
+    - Bionomial
+    - Multinominal
+    - Ordinal 
+
+## Naive Bayes
+    - Sentimental Analysis
+    - Uses Conditional Probability P(A/B) = P(A intersection B)/ P(A)
+    - Bayes Law=> P(A|B) = P(B|A) P(A)/ P(A|B)
+        - Gaussian
+        - Multinominal
+        - Bernoulli
+
+
+## Decision Trees
